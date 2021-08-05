@@ -17,4 +17,4 @@
 <br/>
 <br/>
 
-<img width="25px" height="35px" src="https://user-images.githubusercontent.com/30142553/128421059-a7e10663-e2d3-4032-995d-c3cf3799bbab.gif"> 
+<img width="25px" height="35px" src="https://user-images.githubusercontent.com/30142553/128421059-a7e10663-e2d3-4032-995d-c3cf3799bbab.gif">
